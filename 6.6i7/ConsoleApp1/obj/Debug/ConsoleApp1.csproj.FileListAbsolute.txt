@@ -1,0 +1,8 @@
+E:\klasa2\oprogramowanie\praktyka\6.6i7\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\klasa2\oprogramowanie\praktyka\6.6i7\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\klasa2\oprogramowanie\praktyka\6.6i7\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\klasa2\oprogramowanie\praktyka\6.6i7\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+E:\klasa2\oprogramowanie\praktyka\6.6i7\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+E:\klasa2\oprogramowanie\praktyka\6.6i7\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\klasa2\oprogramowanie\praktyka\6.6i7\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\klasa2\oprogramowanie\praktyka\6.6i7\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
